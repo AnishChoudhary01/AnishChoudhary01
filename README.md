@@ -1,7 +1,8 @@
-# Hi there 👋, I'm Anish Choudhary
-<script src="https://unpkg.com/@lottiefiles/dotlottie-wc@0.9.14/dist/dotlottie-wc.js" type="module"></script>
-<dotlottie-wc src="https://lottie.host/cd60c73d-429f-44ea-b5eb-7cfa8f60a267/WINlYOBLhs.lottie" style="width: 300px;height: 300px" autoplay loop></dotlottie-wc>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&size=30&center=true&vCenter=true&width=900&lines=Hi+I'm+Anish+Choudhary)](https://git.io/typing-svg)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AnishChoudhary01/AnishChoudhary01/main/developer animation.gif" width="100%">
+</p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&size=30&center=true&vCenter=true&width=900&lines=Hi+there+I'm+Anish+Choudhary)](https://git.io/typing-svg)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anish-choudhary-0089a1342)
