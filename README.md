@@ -1,4 +1,8 @@
 # Hi there 👋, I'm Anish Choudhary
+<p align="center">
+  <img src="C:\Users\anish\Downloads\ChatGPT Image May 26, 2026, 12_48_18 PM.png" alt="Anish Choudhary Banner" width="100%">
+</p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&size=30&center=true&vCenter=true&width=900&lines=Hi+I'm+Anish+Choudhary;Computer+Science+Student;Android+Developer;AI%2FML+Enthusiast;Building+Real-World+Projects)](https://git.io/typing-svg)
 🎓 A Computer Science Student exploring Android Development, AI/ML, and Full-Stack Technologies | 🚀 Turning ideas into real-world projects
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&size=30&center=true&vCenter=true&width=900&lines=Hi+I'm+Anish+Choudhary;Computer+Science+Student;Android+Developer;AI%2FML+Enthusiast;Building+Real-World+Projects)](https://git.io/typing-svg)
 
