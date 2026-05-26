@@ -5,7 +5,7 @@
 🚀 Building real-world projects using React, Python & Deep Learning
 
 ## About Me
-- 📱 Android Development using Java & Kotlin
+- 📱 Android and Web Development using react and react native.
 - 🤖 Interested in AI, Machine Learning & Deep Learning
 - 🌍 Working on AQI Prediction, Flood Detection & Smart Transport projects
 - 📚 Always learning new technologies
