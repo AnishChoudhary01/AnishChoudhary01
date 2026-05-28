@@ -1,7 +1,7 @@
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AnishChoudhary01/AnishChoudhary01/main/developer animation.gif" width="400">
-</p>  
+  <video src="./banner.mp4" width="900" autoplay loop muted></video>
+</p>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&size=30&center=true&vCenter=true&width=900&lines=Hi+there+I'm+Anish+Choudhary)](https://git.io/typing-svg)
 
