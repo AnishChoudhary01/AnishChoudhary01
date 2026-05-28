@@ -1,9 +1,8 @@
-
 <p align="center">
-  <video src="./banner.mp4" width="900" autoplay loop muted></video>
+  <img src="./space.gif" width="40%">
 </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&size=30&center=true&vCenter=true&width=900&lines=Hi+there+I'm+Anish+Choudhary)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=0E0E55&size=30&center=true&vCenter=true&width=900&lines=Hi+there+👋,+I'm+Anish+Choudhary,A+CS+Student🚀)](https://git.io/typing-svg)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anish-choudhary-0089a1342)
